@@ -1,0 +1,3 @@
+# create-to-do-list
+Pada suatu hari, Osas berpisah jauh dengan Milea untuk melanjutkan kuliah di London, karena tidak terbiasa merantau dan selama ini bergantung kepada Milea, Osas pun harus mencatat kegiatan apa saja yang harus dikerjakan selama merantau, Osas harus membuat daftar berdasarkan prioritas dengan menggunakan sebuah aplikasi. Bantulah Osas dengan membuat sebuah aplikasi yang dapat menambahkan, menampilkan, dan menghapus daftar kegiatan tersebut, pada daftar kegiatan tersebut terdapat nama kegiatan, deskripsi kegiatan, dan nomor prioritasnya. Daftar tersebut akan Osas masukan sendiri berdasarkan kebutuhannya.
+Daftar (List) yang dibuat menggunakan/menerapkan Content Provider dan SQLite
